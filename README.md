@@ -28,6 +28,5 @@ http-server  # on Windows (http-server.cmd)
 # open the available URL in your browser 
 ```
 
-
 ## License
-[MIT](https://github.com/FerasBinHussain/PacMan/blob/master/LICENSE)
+[MIT](https://github.com/FerasBinHussain/eye-movement/blob/master/LICENSE)
