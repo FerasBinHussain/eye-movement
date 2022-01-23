@@ -1,6 +1,6 @@
 # Eye-Movement
 
-In this project, I used some of my skills in manipulating styles. In addition, I was exploring what is possible when HTML, CSS, and JavaScript come together!
+In this exercise, I used some of my skills in manipulating styles. In addition, I was exploring what is possible when HTML, CSS, and JavaScript come together!
 
 I've created a web page with two eyes that follow your mouse movement.
 
